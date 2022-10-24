@@ -4,7 +4,7 @@
 
 <br/>
 
-### 🛠️Skill🛠️
+## 🛠️Skill🛠️
 <br/>
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -16,7 +16,7 @@
 
 <br/>
 
-### ✍️Studing✍️
+## ✍️Studing✍️
 <br/>
 
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
