@@ -3,9 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=FFCA28&height=130&section=header&text=Nacho613&fontSize=50)
 
 <br/>
-<hr/>
 
-<h3>🛠️Skill🛠️</h3>
+### 🛠️Skill🛠️
 <br/>
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -16,9 +15,8 @@
   
 
 <br/>
-<hr/>
 
-<h3>✍️Studing✍️</h3>
+### ✍️Studing✍️
 <br/>
 
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
@@ -27,7 +25,5 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <br/>
-<hr/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFCA28&height=200&section=footer)
 </div>
