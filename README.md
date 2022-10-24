@@ -4,7 +4,6 @@
 
 <br/>
 <hr/>
-<br/>
 
 <h3>🛠️Skill🛠️</h3>
 </br>
@@ -17,7 +16,6 @@
 
 <br/>
 <hr/>
-<br/>
 
 <h3>✍️Studing✍️</h3>
 </br>
@@ -28,7 +26,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <br/>
 <hr/>
-<br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFCA28&height=200&section=footer)
 </div>
