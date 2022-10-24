@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=FFCA28&height=130&section=header&text=Nacho613&fontSize=50)
 
 </br>
----------------------------------------
+</hr>
 </br>
 
 <h3>🛠️Skill🛠️</h3>
