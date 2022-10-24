@@ -2,9 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=FFCA28&height=130&section=header&text=Nacho613&fontSize=50)
 
-</br>
-</hr>
-</br>
+<br/>
+<hr/>
+<br/>
 
 <h3>🛠️Skill🛠️</h3>
 </br>
@@ -15,9 +15,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   
 
-</br>
----------------------------------------
-</br>
+<br/>
+<hr/>
+<br/>
 
 <h3>✍️Studing✍️</h3>
 </br>
@@ -26,9 +26,9 @@
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-</br>
----------------------------------------
-</br>
+<br/>
+<hr/>
+<br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFCA28&height=200&section=footer)
 </div>
