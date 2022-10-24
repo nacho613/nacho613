@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <br/>
-  
+
 ## Introdution😄
 <br/>
 
@@ -19,7 +19,7 @@
 <br/>
 <br/>
 <br/>
-  
+
 ## 🛠️Skill🛠️
 <br/>
 
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  
+
 <br/>
 <br/>
 <br/>
@@ -47,5 +47,9 @@
 <br/>
 <br/>
 <br/>
+
+## 📨Contact📨
+<br/>
+<a href="mailto:duddbs0613@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </div>
