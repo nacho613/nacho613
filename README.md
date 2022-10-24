@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=FFCA28&height=130&section=header&text=Nacho613&fontSize=50)
 
 </br>
-***
+---------------------------------------
 </br>
 
 <h3>🛠️Skill🛠️</h3>
@@ -16,7 +16,7 @@
   
 
 </br>
-***
+---------------------------------------
 </br>
 
 <h3>✍️Studing✍️</h3>
@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </br>
-***
+---------------------------------------
 </br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFCA28&height=200&section=footer)
