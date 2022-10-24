@@ -8,6 +8,14 @@
 <br/>
 <br/>
 
+![Alt Text](https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif)
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## 🛠️Skill🛠️
 <br/>
 
